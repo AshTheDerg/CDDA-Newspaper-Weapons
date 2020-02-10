@@ -4,7 +4,7 @@
 	"category": "weapons",
 	"id": "weap_roll_paper",
 	"looks_like": "baton",
-	"name": "Rolled newspaper",
+	"name": "rolled newspaper",
 	"description": "Literally just a few pages of newspaper rolled up to hit things with. Why would you use this? At least the headline about rising violence rates is amusingly ironic.",
 	"weight": "30 g",
 	"to_hit": 1,
@@ -13,14 +13,14 @@
 	"material": [ "paper" ],
 	"volume": "250 ml",
 	"bashing": 1,
-	"flags": [ "NO_CVD", "FRAGILE_MELEE", "NO_REPAIR", "TINDER" ]
+	"flags": [ "FRAGILE_MELEE", "NO_REPAIR", "TINDER" ]
   },
   {
     "type": "GENERIC",
 	"category": "weapons",
 	"id": "weap_rock_paper",
 	"looks_like": "baton",
-	"name": "Newspaper with rock",
+	"name": "newspaper with rock",
 	"description": "A newpaper wrapped around a rock and bunched up at the other end. Why are you like this?",
 	"weight": "687 g",
 	"to_hit": 2,
@@ -29,7 +29,7 @@
 	"material": [ "paper" ],
 	"volume": "250 ml",
 	"bashing": 8,
-	"flags": [ "NO_CVD", "FRAGILE_MELEE", "NO_REPAIR" ]
+	"flags": [ "FRAGILE_MELEE", "NO_REPAIR" ]
   },
   {
     "type": "GENERIC",
@@ -43,6 +43,6 @@
 	"material": [ "paper" ],
 	"volume": "125 ml",
 	"bashing": 5,
-	"flags": [ "NO_CVD", "NO_REPAIR", "TINDER" ]
+	"flags": [ "NO_REPAIR", "TINDER" ]
   }
 ]
