@@ -2,6 +2,6 @@
   {
     "type": "item_group",
 	"id": "livingroom",
-	"items": [ [ "weap_roll_paper", 5 ] ]
+	"items": [ [ "weap_roll_paper", 10 ] ]
   }
 ]
